@@ -42,7 +42,7 @@
     </build>
     <distributionManagement>
     <repository>
-        <id>nexus-snapshotss</id>
+        <id>nexus-snapshots</id>
         <url>http://35.179.131.194:8081/repository/java-packages/</url>
     </repository>
 </distributionManagement>
