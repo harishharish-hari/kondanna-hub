@@ -42,11 +42,9 @@
     </build>
     <distributionManagement>
     <repository>
-        <id>nexus-releases</id>
-        <url>http://<NEXUS-IP>:8081/repository/maven-releases/</url>
+        <id>nexus-snapshotss</id>
+        <url>http://35.179.131.194:8081/repository/java-packages/</url>
     </repository>
 </distributionManagement>
-
-    
 </project>
 
