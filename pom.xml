@@ -41,10 +41,10 @@
         </plugins>
     </build>
    <distributionManagement>
-    <repository>
+    <snapshotRepository>
         <id>nexus-snapshots</id>
+        <name>Nexus Snapshot Repository</name>
         <url>http://13.235.53.50:8081/repository/akhila/</url>
-    </repository>
+    </snapshotRepository>
 </distributionManagement>
-
-
+</project>
